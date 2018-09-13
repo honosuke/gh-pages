@@ -5,3 +5,7 @@ p.title1{
 p.title2{
     font-size: 1.5em;
 }
+
+p.hide{
+    color: #fdeff2;
+}
